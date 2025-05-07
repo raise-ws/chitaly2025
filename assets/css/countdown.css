@@ -1,0 +1,14 @@
+.bluelight {
+    text-shadow: 0 0 10px #3498DB,
+                 0 0 20px #3498DB,
+                 0 0 30px #3498DB,
+                 0 0 40px #2980B9,
+                 0 0 70px #2980B9,
+                 0 0 80px #2980B9,
+                 0 0 100px #2980B9,
+                 0 0 150px #2980B9;
+  }
+   
+  .clock {
+      overflow: hidden;
+  }
